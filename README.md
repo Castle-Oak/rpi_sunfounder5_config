@@ -1,7 +1,7 @@
 # rpi_sunfounder5_config
 Configuration for the Sunfounder 5in Display 
 
-This screen can be purchased [here](https://www.amazon.com/SunFounder-Monitor-Display-800X480-Raspberry/dp/B01HXSFIH6/ref=sr_1_1?ie=UTF8&qid=1511643111&sr=8-1&keywords=sunfounder+5+inch).
+This screen can be purchased [here](https://www.amazon.com/SunFounder-Monitor-Display-800X480-Raspberry/dp/B01HXSFIH6/.
 
 This configuration does not enable the use of the touch screen. It will only configure the HDMI output to the mini display. Just copy config.txt to "/boot/".
 
